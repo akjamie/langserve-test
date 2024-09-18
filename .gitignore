@@ -1,0 +1,11 @@
+__pycache__
+.idea
+.pytest_cache
+build
+dist
+.coverage
+.coverage.*
+coverage.xml
+.tox
+.venv
+.env
